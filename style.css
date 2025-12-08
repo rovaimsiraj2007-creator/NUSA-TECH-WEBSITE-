@@ -340,3 +340,8 @@ border: 1px solid var(--primary-color);
     font-family: var(--mainfont);
      letter-spacing: -1%;
 }
+
+.section7{
+    height: 200px;
+    background-color: var(--secondary-color);
+}
