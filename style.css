@@ -93,7 +93,7 @@ header a:hover {
 }
 
 .section1 header .signbtn button:hover {
-    background-color: var(--secondary-color);
+    background-color: var(--text1-color);
     border: 1px solid var(--primary-color);
     color: var(--primary-color);
 }
