@@ -106,6 +106,7 @@ header a:hover {
     align-items: center;
     padding: 45px 70px;
     gap: 40px;
+    position: relative;
 }
 
 .sec2right {
@@ -156,6 +157,68 @@ header a:hover {
     background-color: var(--text1-color);
     color: var(--primary-color);
     border: 1px solid var(--primary-color);
+}
+
+.section2 .star-dot{
+    /* position: absolute;
+    top: 10px;
+    left: 37px;
+top: 78px; */
+    
+}
+
+.section2 #dot-1st{
+    position: absolute;
+left: 37px;
+top: 125px;
+}
+
+.section2 #dot-2nd{
+    position: absolute;
+    top: 23px;
+    right: 631px;
+}
+
+.section2 #dot-3rd{
+        position: absolute;
+    top: 37px;
+    right: 100px;
+}
+
+.section2 #dot-4th{
+    position: absolute;
+    left: 32px;
+    bottom: 80px;
+}
+
+.section2 #dot-5th{
+    position: absolute;
+    left: 676px;
+    bottom: 65px;
+}
+
+.section2 #dot-6th{
+    position: absolute;
+    right: 300px;
+    bottom: 30px;
+}
+
+.section2 #star-1st{
+    position: absolute;
+    left: 400px;
+    top: 290px;
+}
+
+.section2 #star-2nd{
+    position: absolute;
+    right: 75px;
+    top: 100px;
+}
+
+.section2 #star-3rd{
+    position: absolute;
+    right: 570px;
+    bottom: 140px;
 }
 
 .section3 {
